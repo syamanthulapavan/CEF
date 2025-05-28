@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CEF.API"
+    "\\CEF",
+    "\\CEF\\obj\\Debug",
+    "\\CEF\\obj\\Release",
+    "\\CEF\\obj\\Release\\net5.0",
+    "\\CEF\\obj\\Release\\net5.0\\ref"
   ],
+  "SelectedNode": "\\CEF\\CEF.sln",
   "PreviewInSolutionExplorer": false
 }
