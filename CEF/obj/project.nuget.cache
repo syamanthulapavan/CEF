@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JNQhFZN02GOkExepvP4dtK3clwlKGwTfdBZo6nCFE5hlNXX0GsI7CHGHz4SbYhPafFzWH/wdgnu97LcKzHCpZA==",
+  "dgSpecHash": "9OezpAmXv6ZstjiY9/dlR56/FW43utgXAaIUM/wuy1ZIRnrY9BOP8SrIraRNIqHWG/pkPs4XvszrO8vZkbrn2Q==",
   "success": true,
   "projectFilePath": "C:\\CEF.com\\CEF\\CEF.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
   "logs": []
 }

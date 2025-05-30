@@ -8,11 +8,9 @@ namespace CEF.Models
     public class Orders
     {
         public int ID { get; set; }
-        public string OrderID { get; set; }
-        public string MedicineID { get; set; }
-        public string Unitprice { get; set; }
-        public string Descount { get; set; }
-        public string Quantity { get; set; }
-        public string Totalprice { get; set; }
+        public int UserId { get; set; }
+        public string OrderNo { get; set; }
+        public decimal OrderTotal { get; set; }
+        public string OrderStatus { get; set; }
     }
 }

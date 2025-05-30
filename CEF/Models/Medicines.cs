@@ -10,11 +10,12 @@ namespace CEF.Models
         public int ID { get; set; }
         public string Name { get; set; }
         public string Manufacturer { get; set; }
-        public string Unitprice { get; set; }
-        public string Descount { get; set; }
-        public string Quantity { get; set; }
-        public string Imageurl { get; set; }
-        public string Status { get; set; }
-        public string Expdate { get; set; }
+        public decimal UnitPrice { get; set; }
+        public decimal Discount { get; set; }
+        public int Quantity { get; set; }
+        public DateTime ExpDate { get; set; }
+        public string ImageUrl { get; set; }
+        public int Status { get; set; }
+        public string Type { get; set; }
     }
 }

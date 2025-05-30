@@ -12,9 +12,9 @@ namespace CEF.Models
         public string LastName { get; set; }
         public string Password { get; set; }
         public string Email { get; set; }
-        public string Found { get; set; }
+        public decimal Fund { get; set; }
         public string Type { get; set; }
-        public string Status { get; set; }
-        public string Createdon { get; set; }
+        public int Status { get; set; }
+        public DateTime CreatedOn { get; set; }
     }
 }
